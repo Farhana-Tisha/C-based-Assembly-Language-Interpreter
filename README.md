@@ -1,1 +1,3 @@
 # C-based-Assembly-Language-Interpreter
+
+This C program simulates a simple assembly language interpreter, where users can input commands in assembly language format and observe their execution. The program initializes an accumulator (acc) and reads user input in the form of opcode followed by operand. It then parses the input command and executes the corresponding operation on the accumulator, such as addition (ADD), subtraction (SUB), multiplication (MUL), division (DIV), logical AND (AND), logical NOT (NOT), logical OR (OR), load (LD), and store (ST). Additionally, it handles errors like division by zero. 
